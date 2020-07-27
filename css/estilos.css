@@ -13,7 +13,9 @@ body {
     text-align: left;
     border: 1px solid #dddddd;
     margin: 0 auto;
+    background-color: darkslategray;
 }
 #container h1{
     font-size: 20px;
+    background-color: gainsboro;
 }
