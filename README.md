@@ -11,6 +11,7 @@ un  blog increible para hacer todo lo que quieras menor dañarme.
 	- Saludos!
     - creado por dave
     - incluye una visita a mi pagina
+    - lo pueden ver gente culta e inculta
 
 
 
