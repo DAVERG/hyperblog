@@ -9,6 +9,10 @@ un  blog increible para hacer todo lo que quieras menor dañarme.
 	- no te are caso
 	- como anita de platzi
 	- Saludos!
+    - creado por dave
+
+
+
 Como dato extra este curso no es real asì que no te lo tomes enserio, cotorrea amigo!.
 buenas vibras para todo aquel que llegue a ver este apartado.
 
