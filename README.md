@@ -10,6 +10,7 @@ un  blog increible para hacer todo lo que quieras menor dañarme.
 	- como anita de platzi
 	- Saludos!
     - creado por dave
+    - incluye una visita a mi pagina
 
 
 
